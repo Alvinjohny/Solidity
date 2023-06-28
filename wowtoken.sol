@@ -20,3 +20,4 @@ if (balances[_address] >=_value) {
      balances[_address] -= _value;}
     }
 }
+}
